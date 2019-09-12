@@ -1,1 +1,1 @@
-Ficher readme git pour la Wild Code Scool
+Ficher readme git pour la Wild Code Scool.
